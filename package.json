@@ -1,0 +1,14 @@
+{
+  "name": "squad-rpg",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/ViolentResponseEntertainment/squad-rpg.git",
+  "author": "Scott Lackey <thomasscottlackey@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "http-server": "^0.11.1"
+  },
+  "scripts": {
+    "start": "http-server src"
+  }
+}
